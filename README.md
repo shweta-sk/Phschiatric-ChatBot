@@ -4,5 +4,7 @@ The project is aimed at building a chatbot by using python NLTK and relational a
 Tools/Langauges Used:
 
 Python
+
 NLTK/NLP
+
 Relational Algebra
