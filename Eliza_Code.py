@@ -7,10 +7,6 @@
 
 # *************Eliza Chatbot*******************
 
-#Group Member Names: 1.Saksham Arora
-#                    2.Preyaa Atri
-#                    
-#Date: 17 September 2019
 
 
 #Introduction  to Eliza:
